@@ -1,0 +1,46 @@
+<?php
+
+return [
+
+    'Dashboard'=>'الرئيسية',
+    'Dashboard_page'=>'لوحة التحكم',
+    'Main_title'=>' الفراعنة لإدارة المدارس',
+    'Programname' => 'برنامج بيتر لادارة المدارس',
+    'change_language'=>'تغير اللغة',
+    'Grades'=>'المراحل الدراسية',
+    'Grades_list'=>'قائمة المراحل الدراسية',
+    'classes'=>'الصفوف',
+    'List_classes'=>'قائمة الصفوف الدراسية',
+    'sections'=>'الأقسام',
+    'List_sections'=>'قائمة الاقسام الدراسية',
+    'students'=>'الطلاب',
+    'Student_information'=>'معلومات الطلاب',
+    'add_student'=>'إضافة طالب جديد',
+    'list_students'=>'قائمة الطلاب',
+    'Students_Promotions'=>'ترقية الطلاب',
+    'Students_Promotions_list'=>'قائمة ترقيات الطلاب',
+    'add_Promotion'=>'إضافة ترقية جديدة',
+    'list_Promotions'=>'قائمة الترقيات',
+    'Graduate_students'=>'الطلاب المتخرجين',
+    'add_Graduate'=>'إضافة تخرج جديد',
+    'list_Graduate'=>'قائمة التخرجات',
+    'Teachers'=>'المُعلمين',
+    'List_Teachers' => 'قائمة المُعلمين',
+    'Parents'=>'أولياء الأمور',
+    'List_Parents'=>'قائمة أولياء الأمور',
+    'Add_Parent'=>'أضافة ولي أمر',
+    'Accounts'=>'الحسابات',
+    'Tuition_invoices'=>'الفواتير الدراسية',
+    'Exclude_fees'=>'أستبعاد رسوم',
+    'Attendance'=>'الحضور والغياب',
+    'Study_materials'=>'المواد الدراسية',
+    'Quizzes'=>'الأختبارات',
+    'library'=>'المكتبة',
+    'Onlineclasses'=>'حصص أونلاين',
+    'Settings'=>'الأعدادات',
+    'Users'=>'المستخدمين',
+    'Copyright' => 'جميع الحقوق محفوظة ',
+    'Name_Programer' => 'بيتر عزيز'
+
+
+];

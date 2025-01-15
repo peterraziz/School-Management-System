@@ -1,0 +1,43 @@
+<?php
+
+return [
+
+    'name' => 'Name',
+    'student_name' => 'Student name',
+    'name_in_arabic' => 'Name in Arabic',
+    'name_in_english' => 'Name in English',
+    'fees' => 'Tuition fees',
+    'fees_type' => ' Fees type ',
+    'Bus_fees' => ' Bus fee ',
+    'add_new_fees' => 'Add new fees',
+    'add_invoice_fees' => ' Add invoice fee ',
+    'add_new_invoice' => ' Add new invoice ',
+    'school_invoices' => ' Tuition fees ',
+    'edit_fees' => ' Modify tuition fees',
+    'amount' => 'Amount',
+    'fees_paying' => ' Pay fees ',
+    'payments' => ' Payments ',
+    'edit_payments' => 'Edit payments ',
+    'Student_Balance' => 'Remaining student fees due',
+    'Exclude_fees'=>'Exclude fees',
+    'modify_exclude_fees'=>'Modify excluded fees',
+    'Exclude_fees_list'=>'Exclude fees List',
+    'refund_of_fees'=>'Refund of fees',
+    'edit_refund_of_fees'=>'Edit refund of fees',
+    'delete_refund_of_fees'=>'Delete refund of fees',
+    'Grade' => 'Grade Level',
+    'classrooms' => 'Classroom',
+    'academic_year' => 'Academic Year',
+    'Processes' => 'Processes',
+    'Notes' => 'Notes',
+    'statement' => 'Statement',
+    'delete' => 'Delete',
+    'delete_this_payment' => 'Delete this Payment',
+    'delete_invoice' => 'Delete Invoice',
+    'delete_confirm' => 'Are you sure of the Deleting process?',
+    'edit' => 'Edit',
+    'submit' => 'Confirm',
+    'select_item' => 'Select from the item',
+
+
+];
